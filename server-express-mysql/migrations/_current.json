@@ -1,0 +1,9 @@
+{
+    "tables": {
+        "Tasks": {
+            "tableName": "Tasks",
+            "indexes": []
+        }
+    },
+    "revision": 1
+}
